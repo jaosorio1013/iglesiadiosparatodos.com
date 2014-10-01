@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'forge',
-			'username'  => 'forge',
-			'password'  => '',
+			'host'      => 'localhost',//getenv('DB_HOSOT'),
+			'database'  => 'icdpt',//getenv('DB_NAME'),
+			'username'  => 'root',//getenv('DB_USERNAME'),
+			'password'  => 'gi33',//getenv('DB_PASSWORD'),
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
