@@ -15,13 +15,13 @@
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner">
 							<div class="item active">
-								<img src="assets/img/carousel/photo (1).jpg" class="img-responsive" alt="Carousel Image">
+								<img src="http://lorempixel.com/500/350/nature" class="img-responsive" alt="Carousel Image">
 							</div>
 							<div class="item">
-								<img src="assets/img/carousel/photo (2).jpg" class="img-responsive" alt="Carousel Image">
+								<img src="http://lorempixel.com/500/350/nature" class="img-responsive" alt="Carousel Image">
 							</div>
 							<div class="item">
-								<img src="assets/img/carousel/photo (3).jpg" class="img-responsive" alt="Carousel Image">
+								<img src="http://lorempixel.com/500/350/nature" class="img-responsive" alt="Carousel Image">
 							</div>
 						</div>
 						<!-- Controls -->
@@ -34,10 +34,16 @@
 					</div>
 				</div>
 				<div class="col-md-6 wrapper-1">
-					<h5 class="subpage-title">Our Story</h5>
-					<p>Lorem ipsum dolor sit amet, vis principes interpretaris cu. His eu quem impedit percipit, ut dolorum posidonium sea. Intellegebat definitionem te eam. Ex pri quod omnes contentiones, an has fuisset theophrastus, id eum labore omnesque. Cu quod habeo constituam est, regione scribentur nec ex. Mea ad rebum inimicus, usu ne labore regione deterruisset, vix stet imperdiet te.</p>
-					<p>Ne sit movet simul sensibus. Utamur philosophia est id, an nam nisl scripserit. Elit minimum interesset nec ex. His euismod principes no, mel delenit argumentum in. In mel hinc natum, duo menandri vulputate ea, vim et quidam commodo partiendo. Volumus postulant te sit.</p>
-					<p>In putant contentiones eum, duo ad ferri ceteros. An eos primis rationibus, quod moderatius no eos. Te causae accusata cum. In vix explicari accommodare.</p>
+					<h5 class="subpage-title">Nuestra historia</h5>
+					<p>
+						La Iglesia Cristiana Dios Para Todos inició en el municipio de Caldas (Ant.) Colombia, como un grupo familiar presidido por Gildardo Ramírez Urrea, quién además es el pastor fundador. Dios le fue guiando a abrir obra en ya mencionado lugar al añadir salvados al grupo familiar hasta contar con un número significativo de creyentes en Jesucristo, de manera que institucionalizaron la Iglesia.
+					</p>
+					<p>
+						Actualmente, cuenta con dos sedes (municipios Caldas y la Estrella), además visionando para otras más. Cuenta, también, con un extraordinario equipo pastoral integrado por: Giovanny Ramírez, Lucelly Alzate y Ed. Ramírez Suaza. La comunidad es integrada por personas llenas del amor de Dios dispuestas a compartirlo con otros a fin de dar a conocer al Dios revelado en la Biblia.
+					</p>
+					<p>
+						La Iglesia Cristiana Dios Para Todos está vinculada a AMCI (Asociación de Ministros Cristianos de Itagüí) y en completa unidad con el resto del cuerpo de Cristo.
+					</p>
 				</div>
 			</div>
 		</div>
@@ -48,79 +54,30 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 wrapper-1">
-					<h5 class="subpage-title">Who We Are?</h5>
-					<div class="panel-group" id="accordion">
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-									Collapsible Group Item #1
-									</a>
-								</h4>
-							</div>
-							<div id="collapseOne" class="panel-collapse collapse in">
-								<div class="panel-body">
-									Ne sit movet simul sensibus. Utamur philosophia est id, an nam nisl scripserit. Elit minimum interesset nec ex. His euismod principes no, mel delenit argumentum in. In mel hinc natum, duo menandri vulputate ea, vim et quidam commodo partiendo.
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-									Collapsible Group Item #2
-									</a>
-								</h4>
-							</div>
-							<div id="collapseTwo" class="panel-collapse collapse">
-								<div class="panel-body">
-									Ne sit movet simul sensibus. Utamur philosophia est id, an nam nisl scripserit. Elit minimum interesset nec ex. His euismod principes no, mel delenit argumentum in. In mel hinc natum, duo menandri vulputate ea, vim et quidam commodo partiendo.
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-									Collapsible Group Item #3
-									</a>
-								</h4>
-							</div>
-							<div id="collapseThree" class="panel-collapse collapse">
-								<div class="panel-body">
-									Ne sit movet simul sensibus. Utamur philosophia est id, an nam nisl scripserit. Elit minimum interesset nec ex. His euismod principes no, mel delenit argumentum in. In mel hinc natum, duo menandri vulputate ea, vim et quidam commodo partiendo.
-								</div>
-							</div>
-						</div>
-					</div>
+					<h5 class="subpage-title">Quiénes somos?</h5>
+					<p>
+						Somos una iglesia de brazos abiertos, de amor incondicional, de pasión inextinguible y en absoluta dependencia del Único Dios verdadero revelado en Jesucristo.
+					</p>
 				</div>
 				<div class="col-md-6 wrapper-1">
-					<h5 class="subpage-title">Our Crazy Skills</h5>
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-							<span>Web Design 95%</span>
-						</div>
-					</div>
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
-							<span>HTML5 & CSS3 85%</span>
-						</div>
-					</div>
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
-							<span>PHP & MySQL 60%</span>
-						</div>
-					</div>
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
-							<span>Wordpress 70%</span>
-						</div>
-					</div>
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-							<span>JavaScript & jQuery 80%</span>
-						</div>
-					</div>
+					<h5 class="subpage-title">Misión</h5>
+					<p>
+						Es nuestra misión traer personas a Jesús para discipularles en la fe; equipándoles para su ministerio en la iglesia y para la misión de su vida en el mundo, de tal manera que magnifica el nombre de Dios.
+					</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 wrapper-1">
+					<h5 class="subpage-title">Visión</h5>
+					<p>
+						Una Iglesia en crecimiento integral, abundando en amor y fortalecida en unidad, madurando en su identidad con Cristo y en su responsabilidad con el mundo.
+					</p>
+				</div>
+				<div class="col-md-6 wrapper-1">
+					<h5 class="subpage-title">Propósito</h5>
+					<p>
+						La Iglesia Cristiana Dios Para Todos existe para adorar a Dios en comunión, amar sin condición, crecer para edificación, servir para bendición y cumplir la gran comisión.
+					</p>
 				</div>
 			</div>
 			<!-- /.row -->
@@ -130,7 +87,7 @@
 	<!-- /#we-and-our-skills -->
 	<section id="our-team" class="section colored-wrapper">
 		<div class="container wrapper-2">
-			<h5 class="subpage-title">Meet Our Team </h5>
+			<h5 class="subpage-title">Nuestros pastores</h5>
 			<div class="row">
 				<div class="col-md-4 team-member-wrapper">
 					<div class="team-member">
@@ -145,8 +102,8 @@
 							</ul>
 						</div>
 						<div class="team-member-info">
-							<h5>Jhon Doe</h5>
-							<span>Co-Founder</span>
+							<h5>Pastor 1</h5>
+							<span>Pastor</span>
 						</div>
 					</div>
 				</div>
@@ -163,8 +120,8 @@
 							</ul>
 						</div>
 						<div class="team-member-info">
-							<h5>Jhon Doe</h5>
-							<span>Co-Founder</span>
+							<h5>Pastor 2</h5>
+							<span>Pastor</span>
 						</div>
 					</div>
 				</div>
@@ -181,8 +138,8 @@
 							</ul>
 						</div>
 						<div class="team-member-info">
-							<h5>Jhon Doe</h5>
-							<span>Co-Founder</span>
+							<h5>Pastor 3</h5>
+							<span>Pastor</span>
 						</div>
 					</div>
 				</div>
