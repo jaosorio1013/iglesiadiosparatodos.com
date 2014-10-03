@@ -13,13 +13,13 @@ Route::get('404', [
 
 
 Route::get('team', [
-	'as' => 'home',
+	'as' => 'team',
 	'uses' => 'PagesController@team'
 ]);
 
 
 Route::get('contact', [
-	'as' => 'home',
+	'as' => 'contact',
 	'uses' => 'PagesController@contact'
 ]);
 

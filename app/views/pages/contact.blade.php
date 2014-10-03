@@ -2,43 +2,45 @@
 
 @section('content')
 	<section id="google-map" class="section google-map">
-		<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=dhaka&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=38.963048,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=Dhaka,+Dhaka+Division,+Bangladesh&amp;t=m&amp;z=10&amp;ll=23.709921,90.407143&amp;output=embed"></iframe>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d901.7648092542297!2d-75.6375122065293!3d6
+		.091592041083305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2s!4v1412363876651" width="100%"
+		height="350" frameborder="0" style="border:0"></iframe>
 	</section>
 	<!-- /#google-map -->
 	<section id="contact-us" class="section contact-us">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4 wrapper-2">
-					<h5 class="subpage-title"><i class="icon-compass"></i> Visit Us</h5>
+					<h5 class="subpage-title"><i class="icon-compass"></i> Visitanos</h5>
 					<address>
-						<strong>FLATPOINT, INC.</strong><br>
-						795 Folsom Ave, Suite 600<br>
-						San Francisco, CA 94107<br>
+						<strong>Caldas (Ant.) Colombia.</strong><br>
+						Calle 130 Sur Nº 51 - 40<br>
+						<strong>Estrella (Ant.) Colombia.</strong><br>
+						Calle 95 sur No. 55b-23 (Pueblo Viejo)<br>
 					</address>
-					<h5 class="subpage-title"><i class="icon-phone"></i> Contact</h5>
+					<h5 class="subpage-title"><i class="icon-phone"></i> Contactos</h5>
 					<address>
-						Phone: (123) 456-7890<br>
-						Fax: (123) 456-7890<br>
-						<a href="mailto:#">contact@example.com</a>
+						Teléfono: 278 2121<br>
+						<a href="mailto:icdpt@yahoo.es">icdpt@yahoo.es</a>
 					</address>
 				</div>
 				<div class="col-md-8 wrapper-1">
 					<form class="contact-form">
-						<h5 class="subpage-title">Get In Touch</h5>
+						<h5 class="subpage-title">Ponte en contacto</h5>
 						<div class="row">
 							<div class="col-md-4">
-								<input class="form-control" placeholder="Name (required)" type="text">
+								<input class="form-control" placeholder="Nombre (requerido)" type="text">
 							</div>
 							<div class="col-md-4">
-								<input class="form-control" placeholder="Email (required)" type="text">
+								<input class="form-control" placeholder="Email (requerido)" type="text">
 							</div>
 							<div class="col-md-4">
-								<input class="form-control" placeholder="Subject (Optional)" type="text">
+								<input class="form-control" placeholder="Asunto (Opcional)" type="text">
 							</div>
 						</div>
 						<!-- row-fluid -->
-						<textarea class="form-control" placeholder="Your Message (required)" rows="3"></textarea>
-						<button class="btn btn-flat flat-color ">Submit</button>
+						<textarea class="form-control" placeholder="Tu mensaje (requerido)" rows="3"></textarea>
+						<button class="btn btn-flat flat-color ">Enviar</button>
 					</form>
 					<!-- /.contact-form -->
 				</div>

@@ -81,17 +81,18 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-6 footer-info-wrapper">
-				<span>FlatPoint © 2013. Powered by <a href="#">Firework</a></span>
+				<span>Iglesia Dios Para Todos © 2014. Powered by <a href="https://github.com/jaosorio1013" target="_blank"
+				>Jaosorio1013</a></span>
 			</div>
 			<!-- /.footer-info-wrapper -->
 			<div class="col-xs-12 col-sm-6 social-link-wrapper">
 				<ul class="social-links">
-					<li><a href="#"><i class="icon-facebook"></i></a></li>
-					<li><a href="#"><i class="icon-google-plus"></i></a></li>
+					<li><a href="https://www.facebook.com/iglesiadiosparatodos"><i class="icon-facebook"></i></a></li>
+					{{--<li><a href="#"><i class="icon-google-plus"></i></a></li>
 					<li><a href="#"><i class="icon-twitter"></i></a></li>
 					<li><a href="#"><i class="icon-pinterest"></i></a></li>
 					<li><a href="#"><i class="icon-linkedin"></i></a></li>
-					<li><a href="#"><i class="icon-dribbble"></i></a></li>
+					<li><a href="#"><i class="icon-dribbble"></i></a></li>--}}
 				</ul>
 			</div>
 			<!-- /.social-link-wrapper -->
