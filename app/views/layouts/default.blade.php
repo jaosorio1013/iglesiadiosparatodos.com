@@ -38,5 +38,7 @@
 		@include('layouts/partials/footer')
 	</div>
 	@include('layouts/partials/javascript')
+	<!-- Custom Script For This Template -->
+	<script src="/assets/js/script.js"></script>
 </body>
 </html>

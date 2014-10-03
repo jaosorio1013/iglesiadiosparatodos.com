@@ -12,5 +12,3 @@
 <script src="/assets/UItoTop/js/jquery.ui.totop.min.js"></script>
 <script src="/assets/isotope-site/jquery.isotope.min.js"></script>
 <script src="/assets/FitVids.js/jquery.fitvids.js"></script>
-<!-- Custom Script For This Template -->
-<script src="/assets/js/script.js"></script>
