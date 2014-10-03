@@ -28,3 +28,15 @@ Route::get('about', [
 	'as' => 'about',
 	'uses' => 'PagesController@about'
 ]);
+
+
+Route::get('blog', [
+	'as' => 'blog',
+	'uses' => 'BlogController@index'
+]);
+
+
+Route::get('blog/detail/{slug}', [
+	'as' => 'blogDetail',
+	'uses' => 'BlogController@detail'
+]);

@@ -52,7 +52,7 @@
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse navbar-ex1-collapse">
 				<ul class="nav navbar-nav">
-					<li>
+					<li class="active">
 						<a href="{{ route('home') }}">Inicio</a>
 					</li>
 					<li>
@@ -60,6 +60,9 @@
 					</li>
 					<li>
 						<a href="{{ route('team') }}">Lideres</a>
+					</li>
+					<li>
+						<a href="{{ route('blog') }}">Blog</a>
 					</li>
 					<li>
 						<a href="{{ route('contact') }}">Contacto</a>
