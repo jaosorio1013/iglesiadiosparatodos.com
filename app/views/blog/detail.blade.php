@@ -1,4 +1,4 @@
-@extends('layouts/default')
+@extends('layouts/blogDetail')
 
 @section('content')
 	<section id="blog-wrapper" class="section layout-1">

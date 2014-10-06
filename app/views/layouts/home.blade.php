@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	<link rel="shortcut icon" href="/assets/ico/favicon.png">
-	<title>FlatPoint - Responsive Multi-Purpose Theme</title>
+	<title>{{ $data['title'] }}</title>
 	<!-- Bootstrap Core CSS -->
 	<link href="/assets/bootstrap/css/bootstrap.css" rel="stylesheet">
 	<!-- Plugins CSS -->

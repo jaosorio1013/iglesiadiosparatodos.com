@@ -5,13 +5,23 @@ class BlogController extends BaseController
 
 	public function index()
 	{
-		return View::make('blog/index');
+		$data = [
+			'title' => 'Blog',
+			'active' => ['blog' => 'active'],
+		];
+
+		return View::make('blog/index', compact('data'));
 	}
 
 
 	public function detail($slug)
 	{
-		return View::make('blog/detail');
+		$data = [
+			'title' => $slug,
+			'active' => ['blog' => 'active'],
+		];
+
+		return View::make('blog/detail', compact('data'));
 	}
 
 }

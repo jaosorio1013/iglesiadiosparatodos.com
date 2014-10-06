@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	<link rel="shortcut icon" href="/assets/ico/favicon.png">
-	<title>{{ $data['title'] }}</title>
+	<title>FlatPoint - Responsive Multi-Purpose Theme</title>
 	<!-- Bootstrap Core CSS -->
 	<link href="/assets/bootstrap/css/bootstrap.css" rel="stylesheet">
 	<!-- Plugins CSS -->
@@ -31,14 +31,19 @@
 	<div id="main-wrapper" class="color-skin-3">
 		@include('layouts/partials/nav')
 
-		@include('layouts/partials/pageTitle')
+		@include('layouts/partials/pageTitleBlog')
 
 		@yield('content')
 
 		@include('layouts/partials/footer')
 	</div>
 	@include('layouts/partials/javascript')
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$(".responsive-video-wrapper").fitVids();
+		});
+	</script>
 	<!-- Custom Script For This Template -->
-	<script src="/assets/js/script.js"></script>
+	<script src="assets/js/script.js"></script>
 </body>
 </html>

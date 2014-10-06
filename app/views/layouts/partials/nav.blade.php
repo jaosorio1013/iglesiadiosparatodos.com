@@ -52,19 +52,19 @@
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse navbar-ex1-collapse">
 				<ul class="nav navbar-nav">
-					<li class="active">
+					<li class="{{ @$data['active']['home'] }}">
 						<a href="{{ route('home') }}">Inicio</a>
 					</li>
-					<li>
+					<li class="{{ @$data['active']['about'] }}">
 						<a href="{{ route('about') }}">Nosotros</a>
 					</li>
-					<li>
+					<li class="{{ @$data['active']['team'] }}">
 						<a href="{{ route('team') }}">Lideres</a>
 					</li>
-					<li>
+					<li class="{{ @$data['active']['blog'] }}">
 						<a href="{{ route('blog') }}">Blog</a>
 					</li>
-					<li>
+					<li class="{{ @$data['active']['contact'] }}">
 						<a href="{{ route('contact') }}">Contacto</a>
 					</li>
 				</ul>
