@@ -10,7 +10,7 @@ class PagesController extends BaseController
 			'active' => ['home' => 'active'],
 		];
 
-		return View::make('pages/home', compact('data'));
+		return View::make('home/index', compact('data'));
 	}
 
 
@@ -43,7 +43,9 @@ class PagesController extends BaseController
 			'active' => ['team' => 'active'],
 		];
 
-		return View::make('pages/team', compact('data'));
+		$team = array();
+
+		return View::make('pages/team', compact('data', 'team'));
 	}
 
 

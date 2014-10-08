@@ -150,7 +150,7 @@
 					play: false
 				}
 			});
-			tpj('#caroufredsel-clients-container').carouFredSel({
+			tpj('#caroufredsel-testimonials-container').carouFredSel({
 				responsive: true,
 				scroll: 1,
 				circular: false,
@@ -158,11 +158,11 @@
 				items: {
 					visible: {
 						min: 1,
-						max: 4
+						max: 3
 					}
 				},
-				prev: '#client-prev',
-				next: '#client-next',
+				prev: '#testimonials-prev',
+				next: '#testimonials-next',
 				auto: {
 					play: false
 				}
