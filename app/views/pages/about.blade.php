@@ -107,42 +107,6 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4 team-member-wrapper">
-					<div class="team-member">
-						<div class="team-member-thumb">
-							<img src="assets/img/smiling-group/photo (2).jpg" class="img-responsive" alt="Member Image">
-							<div class="overlay"></div>
-							<ul class="member-social">
-								<li><a href="#"><i class="icon-facebook"></i></a></li>
-								<li><a href="#"><i class="icon-twitter"></i></a></li>
-								<li><a href="#"><i class="icon-google-plus"></i></a></li>
-								<li><a href="#"><i class="icon-linkedin"></i></a></li>
-							</ul>
-						</div>
-						<div class="team-member-info">
-							<h5>Pastor 2</h5>
-							<span>Pastor</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 team-member-wrapper">
-					<div class="team-member">
-						<div class="team-member-thumb">
-							<img src="assets/img/smiling-group/photo (3).jpg" class="img-responsive" alt="Member Image">
-							<div class="overlay"></div>
-							<ul class="member-social">
-								<li><a href="#"><i class="icon-facebook"></i></a></li>
-								<li><a href="#"><i class="icon-twitter"></i></a></li>
-								<li><a href="#"><i class="icon-google-plus"></i></a></li>
-								<li><a href="#"><i class="icon-linkedin"></i></a></li>
-							</ul>
-						</div>
-						<div class="team-member-info">
-							<h5>Pastor 3</h5>
-							<span>Pastor</span>
-						</div>
-					</div>
-				</div>
 			</div>
 			<!-- /.row -->
 		</div>
