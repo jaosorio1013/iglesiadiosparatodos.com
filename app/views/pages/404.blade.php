@@ -11,12 +11,12 @@
 				</div>
 				<div class="col-md-6 wrapper-1">
 					<div class="details404">
-						<h3>We looked everywhere but couldn't find anything...sorry. Please try again!</h3>
-						<p>Please try to search to look for more information on this site.</p>
+						<h3>Hemos buscado por todas partes pero no pudimos encontrar nada ... lo siento. Por favor, inténtelo de nuevo!</h3>
+						<p>Por favor, intente buscar para buscar más información en este sitio.</p>
 						<form class="search-form">
-							<input type="text" class="form-control" placeholder="Search ...">
+							<input type="text" class="form-control" placeholder="Buscar ...">
 						</form>
-						<a href="" class="btn btn-flat flat-color"><i class="icon-long-arrow-left"></i> Back to Home</a>
+						<a href="" class="btn btn-flat flat-color"><i class="icon-long-arrow-left"></i> Volver al inicio</a>
 					</div>
 				</div>
 			</div>

@@ -22,6 +22,15 @@ App::after(function($request, $response)
 	//
 });
 
+App::missing(function($exception)
+{
+	$data = [
+		'title' => '404 Página no encontrada'
+	];
+
+	return View::make('pages/404', compact('data'));
+});
+
 /*
 |--------------------------------------------------------------------------
 | Authentication Filters

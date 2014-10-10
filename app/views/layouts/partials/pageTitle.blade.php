@@ -7,7 +7,7 @@
 			<!-- /.page-title -->
 			<div class="col-xs-6 hidden-xs breadcrumb-wrapper">
 				<ol class="breadcrumb pull-right">
-					<li><a href="{{ route('blog') }}">Inicio</a></li>
+					<li><a href="{{ route('home') }}">Inicio</a></li>
 					<li class="active">{{ $data['title'] }}</li>
 				</ol>
 			</div>

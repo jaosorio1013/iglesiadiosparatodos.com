@@ -17,8 +17,7 @@ class PagesController extends BaseController
 	public function page404()
 	{
 		$data = [
-			'title' => '404 Página no encontrada',
-			'active' => ['page404' => 'active'],
+			'title' => '404 Página no encontrada'
 		];
 
 		return View::make('pages/404', compact('data'));
